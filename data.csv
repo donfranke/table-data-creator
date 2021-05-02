@@ -1,0 +1,3 @@
+elem 1,cpe1-1|cpe1-2|cpe1-3,vuln1-1|vuln1-2|vuln1-3
+elem 2,cp2-1|cpe2-2|cpe2-3,vuln2-1|vuln2-2|vuln2-3
+elem 3,cpe3-1|cpe3-2|cpe3-3,vuln3-1|vuln3-2|vuln3-3
